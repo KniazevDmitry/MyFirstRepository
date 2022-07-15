@@ -1,5 +1,5 @@
-# MyFirstRepository
-# Мой первый репозиторий
+# DKTestRepository
+# generic repo
 
 Данный репозиторий был создан в рамках [профессии C#-разработчик](https://skillfactory.ru/csharp) на платформе SkillFactory.
 
